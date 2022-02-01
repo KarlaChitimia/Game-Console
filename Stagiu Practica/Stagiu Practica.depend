@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619683475 source:d:\faculta things\stagiu practica\stagiu practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
